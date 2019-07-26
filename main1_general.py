@@ -25,4 +25,4 @@ else:
     day=list1[0]-list2[0]
     month=list1[1]-list2[1]
     year=list1[2]-list2[2]
-    print(f"you are {year} year {month} month {day} day old")
+    print(f"you are {year} year's {month} months {day} days old")
